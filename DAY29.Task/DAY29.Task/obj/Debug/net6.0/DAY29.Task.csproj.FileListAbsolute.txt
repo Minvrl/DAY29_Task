@@ -1,0 +1,14 @@
+C:\Users\Comp\source\repos\DAY29.Task\DAY29.Task\bin\Debug\net6.0\DAY29.Task.exe
+C:\Users\Comp\source\repos\DAY29.Task\DAY29.Task\bin\Debug\net6.0\DAY29.Task.deps.json
+C:\Users\Comp\source\repos\DAY29.Task\DAY29.Task\bin\Debug\net6.0\DAY29.Task.runtimeconfig.json
+C:\Users\Comp\source\repos\DAY29.Task\DAY29.Task\bin\Debug\net6.0\DAY29.Task.dll
+C:\Users\Comp\source\repos\DAY29.Task\DAY29.Task\bin\Debug\net6.0\DAY29.Task.pdb
+C:\Users\Comp\source\repos\DAY29.Task\DAY29.Task\obj\Debug\net6.0\DAY29.Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\DAY29.Task\DAY29.Task\obj\Debug\net6.0\DAY29.Task.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\DAY29.Task\DAY29.Task\obj\Debug\net6.0\DAY29.Task.AssemblyInfo.cs
+C:\Users\Comp\source\repos\DAY29.Task\DAY29.Task\obj\Debug\net6.0\DAY29.Task.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\DAY29.Task\DAY29.Task\obj\Debug\net6.0\DAY29.Task.dll
+C:\Users\Comp\source\repos\DAY29.Task\DAY29.Task\obj\Debug\net6.0\refint\DAY29.Task.dll
+C:\Users\Comp\source\repos\DAY29.Task\DAY29.Task\obj\Debug\net6.0\DAY29.Task.pdb
+C:\Users\Comp\source\repos\DAY29.Task\DAY29.Task\obj\Debug\net6.0\DAY29.Task.genruntimeconfig.cache
+C:\Users\Comp\source\repos\DAY29.Task\DAY29.Task\obj\Debug\net6.0\ref\DAY29.Task.dll
